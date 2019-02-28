@@ -1,0 +1,4 @@
+﻿fs.FSWatcher Supports events for watching for file changes 
+fs.ReadStream A readable stream 
+fs.WriteStream A writable stream 
+fs.Stats Information returned from the *stat functions
